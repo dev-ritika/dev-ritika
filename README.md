@@ -14,7 +14,7 @@
 
 I'm a **Senior Flutter Developer** who architects production-grade mobile apps for iOS & Android. I've shipped **3+ real-world Flutter apps** — including a B2C customer app and a Kiosk system running at Awfis co-working spaces across India. I mentor teams, obsess over clean code, and believe great architecture is invisible.
 
-| 🏆 3.8+ yrs Flutter | 📈 35% perf improvement | 👩‍💻 100+ led devs & students |
+| 🏆 3.8+ yrs Flutter | 📈 35% performance improvement | 👩‍💻 100+ led devs & students |
 |---|---|---|
 
 ---
